@@ -1,3 +1,3 @@
 == README
 
-<p style="font-style: bold">SIMPLE DEMO TOY APP</p>
+<tt>SIMPLE DEMO TOY APP</tt>
